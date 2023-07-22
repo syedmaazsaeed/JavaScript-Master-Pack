@@ -1,6 +1,8 @@
 # JavaScript Course: From Beginners to Experts
 
 Welcome to the JavaScript Course repository, where you may start your journey to mastering JavaScript, the web's primary programming language!
+This is a JavaScript playlist that includes HTML files using script tags, with 75% of the content being JavaScript and 25% being HTML.
+I hope this accurately conveys the information you intended to share. If you have any more specific details or requests, feel free to let me know, and I'll be happy to assist further!
 
 ## Table of Contents
 1. [Introduction to JavaScript](#introduction-to-javascript)
