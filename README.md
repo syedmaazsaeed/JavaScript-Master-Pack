@@ -28,83 +28,83 @@ I hope this accurately conveys the information you intended to share. If you hav
 20. [Contributing](#contributing)
 21. [Contact](#contact)
 
-💡 Introduction to JavaScript
+<h1>💡 Introduction to JavaScript</h1>
 
 Learn the fundamentals of JavaScript, its pivotal role in modern web development, and how it complements HTML and CSS to create dynamic, interactive web pages.
 
-🛠️ Variables and Data Types
+<h1>🛠️ Variables and Data Types</h1>
 
 Master how to declare variables and work with JavaScript's wide array of data types, laying the foundation for all your coding endeavors.
 
-⚙️ Conditional Structures
+<h1>⚙️ Conditional Structures</h1>
 
 Explore conditional logic with if-else, switch, and ternary operators to control your program's flow and behavior based on varying conditions.
 
-🔄 Loops
+<h1>🔄 Loops</h1>
 
 Understand the power of loops (for, while, do-while) and learn how to efficiently handle repetitive tasks within your JavaScript code.
 
-📋 Arrays
+<h1>📋 Arrays</h1>
 
 Dive into arrays—essential for storing and manipulating data—and explore their built-in methods to simplify your coding tasks.
 
-🔧 Objects
+<h1>🔧 Objects</h1>
 
 Unlock the power of objects in JavaScript. Learn how to create, modify, and use objects to represent real-world entities in your code.
 
-⏳ Promises
+<h1>⏳ Promises</h1>
 
 Grasp the concept of Promises—a key feature for managing asynchronous operations—and elevate your code with cleaner, more efficient error handling.
 
-🔗 Callbacks
+<h1>🔗 Callbacks</h1>
 
 Understand callbacks and their role in executing code after certain tasks are completed, making your applications more efficient and responsive.
 
-🗃️ Modules
+<h1>🗃️ Modules</h1>
 
 Learn how to use JavaScript modules to better organize and structure your code, enhancing its maintainability and reusability.
 
-🌐 Nested Structures
+<h1>🌐 Nested Structures</h1>
 
 Master nested structures like loops and conditionals within loops for handling complex scenarios in your programs.
 
-✂️ String Methods
+<h1>✂️ String Methods</h1>
 
 Harness JavaScript's powerful string manipulation methods to work with textual data, extract, modify, and transform strings effortlessly.
 
-🧩 Functions
+<h1>🧩 Functions</h1>
 
 Functions are the building blocks of JavaScript. Master their usage, scope, and how to create reusable, efficient code with functions.
 
-🔍 Ternary Operator
+<h1>🔍 Ternary Operator</h1>
 
 Discover the ternary operator, a handy way to simplify your conditional statements and make your code more concise and readable.
 
-➕ Arithmetic Operators
+<h1>➕ Arithmetic Operators</h1>
 
 Familiarize yourself with arithmetic operators and leverage them for performing calculations and data manipulation in JavaScript.
 
-🔑 The 'this' Keyword
+<h1>🔑 The 'this' Keyword</h1>
 
 Learn the intricacies of the 'this' keyword, its dynamic context, and how it changes based on where and how it's used in functions and objects.
 
-📐 Multi-dimensional Arrays
+<h1>📐 Multi-dimensional Arrays</h1>
 
 Understand and manipulate multi-dimensional arrays for representing and working with complex data structures in JavaScript.
 
-🔄 Typecasting
+<h1>🔄 Typecasting</h1>
 
 Explore typecasting and how to convert between different data types, allowing for flexible, adaptable code in various scenarios.
 
-⏱️ Async Programming
+<h1>⏱️ Async Programming</h1>
 
 Master asynchronous programming techniques to handle operations that don’t execute sequentially, making your code more efficient and responsive.
 
-🚦 Await Keyword
+<h1>🚦 Await Keyword</h1>
 
 Simplify your async code with the 'await' keyword, and learn how it works seamlessly with promises and async/await syntax.
 
-## Contact
+<h1>🌐 Contact</h1>
 
  You can reach out to us at syedmaazsaeed@gmail.com
 
