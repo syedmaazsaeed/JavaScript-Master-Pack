@@ -1,6 +1,6 @@
 <h1>🚀 JavaScript Course: From Beginner to Expert</h1>
 
-<p>Welcome to the JavaScript Course! This course will take you from the basics to advanced JavaScript concepts, with a mix of JavaScript and HTML to build practical, real-world projects. Let’s dive into mastering the web’s most essential language!</p>
+<p>Greetings and welcome to the JavaScript course! With a combination of HTML and JavaScript, this course will take you from the fundamentals to advanced JavaScript principles so you can create useful, real-world applications. Now let's become proficient in the most important language on the internet!</p>
 
 <h1>🔑 Overview</h1>
 
